@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=Desarrollador+Fullstack+Java;Prompt+Engineer+%7C+IA+Generativa;Explorador+de+Sistemas+Simb%C3%B3licos;Tecnolog%C3%ADa+con+prop%C3%B3sito+y+alma" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=Desarrollador+Fullstack+Java;Prompt+Engineer+%7C+IA+Generativa;Tecnolog%C3%ADa+con+prop%C3%B3sito+y+est%C3%A9tica;Porque+los+jóvenes+somos+efervescencia+creativa." alt="Typing SVG" />
   </a>
 </p>
 
@@ -19,9 +19,9 @@
 
 ### 🧠 Sobre mí
 
-Soy un desarrollador Fullstack Jr apasionado por la intersección entre inteligencia artificial, diseño simbólico y tecnología con sentido.
+Soy un desarrollador Fullstack Jr con formación en IA generativa, diseño de prompts y creación de experiencias digitales con sentido.
 
-He trabajado en producción audiovisual, contenido educativo y proyectos estratégicos reales. Actualmente me especializo en desarrollo web, prompt engineering y la creación de experiencias digitales simbióticas que conectan con lo humano.
+He trabajado en producción audiovisual, contenido educativo y consultoría estratégica en proyectos reales. Hoy diseño soluciones web limpias, accesibles y emocionalmente potentes, combinando ingeniería, estética y pensamiento simbólico.
 
 📍 León, Guanajuato  
 ✉️ arath.riverar@gmail.com  
@@ -57,19 +57,6 @@ He trabajado en producción audiovisual, contenido educativo y proyectos estrat�
 
 ---
 
-### 🧬 Ecosistema simbólico
-
-> Mis proyectos no son solo código. Son entidades, criaturas y sistemas diseñados para expresar una idea profunda.
-
-- 🧸 **Nocturiel** – Recolector de sueños abandonados  
-- 🕷 **Límulo** – Parasito de la voluntad en crisis  
-- 🩸 **Paravox** – Acción sin alma  
-- 🪞 **LIMERENCE** – Agente IA emocional  
-- 🔪 **FILO** – Filosofía del Corte Preciso  
-- 🧠 **ARUMEN** – Bitácora cognitiva ritual
-
----
-
 ### 📬 Contacto
 
 <p align="center">
@@ -77,6 +64,7 @@ He trabajado en producción audiovisual, contenido educativo y proyectos estrat�
   <a href="https://github.com/Idertal"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
   <a href="https://www.linkedin.com/in/arath-alejandro-ramírez-rivera-a921411a2/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 </p>
+
 
 ---
 
