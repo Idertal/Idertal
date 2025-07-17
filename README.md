@@ -11,10 +11,9 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=Desarrollador+Fullstack+Java;Prompt+Engineer+%7C+IA+Generativa;Tecnolog%C3%ADa+con+prop%C3%B3sito+y+est%C3%A9tica;Porque+los+jóvenes+somos+efervescencia+creativa." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=Desarrollador+Fullstack+Java;Prompt+Engineer+%7C+IA+Generativa;Explorador+de+Sistemas+Simb%C3%B3licos;Tecnolog%C3%ADa+con+prop%C3%B3sito+y+alma" alt="Typing SVG" />
   </a>
 </p>
-
 ---
 
 ### 🧠 Sobre mí
