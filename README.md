@@ -3,10 +3,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Idertal&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
-
 <br/>
 
 <p align="center">
@@ -69,4 +65,4 @@ He trabajado en producción audiovisual, contenido educativo y consultoría estr
 
 ### 🧭 Frase que me representa
 
-> **“No espero 4 años de un sistema que no me entiende. Yo diseño el mío.”**
+> **Porque los jóvenes somos pura efervescencia creativa."**
