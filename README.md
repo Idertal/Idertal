@@ -13,7 +13,7 @@
 
 ### 🧠 Sobre mí
 
-Soy un desarrollador Fullstack Jr con formación en IA generativa, diseño de prompts y creación de experiencias digitales con sentido.
+Soy un desarrollador Frontend con formación en IA generativa, diseño de prompts y creación de experiencias digitales con sentido.
 
 He trabajado en producción audiovisual, contenido educativo y consultoría estratégica en proyectos reales. Hoy diseño soluciones web limpias, accesibles y emocionalmente potentes, combinando ingeniería, estética y pensamiento simbólico.
 
